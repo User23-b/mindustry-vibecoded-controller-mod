@@ -1,0 +1,8 @@
+name: "controller-support"
+displayName: "Mobile Controller & Gyro"
+author: "You"
+description: "Adds Xbox/PS4 controller support, virtual cursor, optional gyro aiming, and a custom keybind menu."
+version: "1.0.0"
+minGameVersion: 146
+main: "controller.ControllerMod"
+java: true
